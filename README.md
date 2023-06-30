@@ -112,3 +112,5 @@ Prints out one line in /out/output.txt per each line from /in/example.txt, with 
 docker-compose run --rm app bundle exec ruby oclc_cross_ref_process.rb example.txt output.txt
   => look in out/output.txt for results.
 ```
+
+![flow1](https://github.com/dfulmer/oclc-stuff-dfulmer/assets/18075253/f833f668-5e45-4843-9b06-0442f063ac73)
