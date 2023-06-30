@@ -1,13 +1,13 @@
-# oclc-stuff
+# oclc-stuff-dfulmer
 Experiments.
 
-## Setting up OCLC stuff
+## Setting up OCLC stuff-dfulmer
 
 Clone the repo
 
 ```
-git clone git@github.com:dfulmer/oclc-stuff.git
-cd oclc-stuff
+git clone git@github.com:dfulmer/oclc-stuff-dfulmer.git
+cd oclc-stuff-dfulmer
 ```
 
 copy .env-example to .env
